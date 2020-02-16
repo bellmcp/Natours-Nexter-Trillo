@@ -50,4 +50,4 @@ Licensed under [The MIT License](https://github.com/bellmcp/Natours-Nexter-Trill
 
 All reading materials from this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You could use this repository as your reference as long as you give the attribution.
 
-> Copyright © 2020 Wutipat Khamnuansin, All rights reserved. Under the instructions of [Jonas Schmedtmann](https://codingheroes.io)'s course on Udemy.
+> Copyright © 2020 Wutipat Khamnuansin, All rights reserved.
