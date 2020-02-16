@@ -19,7 +19,7 @@ Natours, Nexter, and Trillo are web development projects built to practice cutti
 * Download and install [Node.js](https://nodejs.org/en/) (LTS version). Check if the installation is correct by run `node -v` and `npm -v` commands in Terminal, you will see version number as the results.
 * Access to the main project's folder path by `cd` command until you reached the correct path. Check if the current path location is correct by `ls` command, you will see the current working path as the results.
 * Download and install essential plugins by run `npm install` command. Check if the installation is correct, you will see the "node_modules" folder in the main project folder. 
-* Run the project in browser by simply type `npm run start` command.
+* Run the project in browser by simply type `npm start` command.
 * Terminate the project by hitting `Ctrl + C` in the Terminal.
 
 # What I Learned
