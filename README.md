@@ -44,7 +44,7 @@ Natours, Nexter, and Trillo are web development projects built to practice cutti
 
 ### Source Code License
 
-Licensed under [The MIT License](https://github.com/bellmcp/4-Digit-Calculator/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
+Licensed under [The MIT License](https://github.com/bellmcp/Natours-Nexter-Trillo/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
 
 ### Documentation License
 
