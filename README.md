@@ -9,7 +9,9 @@ Natours, Nexter, and Trillo are web development projects built to practice cutti
 
 # Demo
 
-* [https://cookify.azurewebsites.net/](https://cookify.azurewebsites.net/)
+* [http://bellmcp.work/demo/Natours](http://bellmcp.work/demo/Natours)
+* [https://bellmcp.work/demo/Nexter](https://bellmcp.work/demo/Nexter/)
+* [https://bellmcp.work/demo/Trillo](https://bellmcp.work/demo/Trillo/)
 
 # Install Guide
 
