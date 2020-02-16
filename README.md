@@ -1,4 +1,4 @@
-# Natours, Nexter, and Trillo (CSS and Sass Practice: Grid, Flexbox, and Animations) 
+# Natours, Nexter, and Trillo <br> (CSS and Sass Practice: Grid, Flexbox, and Animations) 
 
 Natours, Nexter, and Trillo are web development projects built to practice cutting-edge CSS and Sass techniques to create stunning designs and effects eg. Grid, Flexbox, Animations and so much more.
 
