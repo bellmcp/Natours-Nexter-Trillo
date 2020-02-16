@@ -17,7 +17,7 @@ Natours, Nexter, and Trillo are web development projects built to practice cutti
 
 * Download the complete package by hit the green button saying "Clone or download" then choose the "Download ZIP" option.
 * Download and install [Node.js](https://nodejs.org/en/) (LTS version). Check if the installation is correct by run `node -v` and `npm -v` commands in Terminal, you will see version number as the results.
-* Access to the main project's folder path by `cd` command until you reached the correct path. Check if the current path location is correct by `ls` command, you will see "dist", "package-lock.json", "src", "package.json" and "webpack.config.js" as the results.
+* Access to the main project's folder path by `cd` command until you reached the correct path. Check if the current path location is correct by `ls` command, you will see the current working path as the results.
 * Download and install essential plugins by run `npm install` command. Check if the installation is correct, you will see the "node_modules" folder in the main project folder. 
 * Run the project in browser by simply type `npm run start` command.
 * Terminate the project by hitting `Ctrl + C` in the Terminal.
@@ -50,4 +50,4 @@ Licensed under [The MIT License](https://github.com/bellmcp/4-Digit-Calculator/b
 
 All reading materials from this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You could use this repository as your reference as long as you give the attribution.
 
-> Copyright © 2020 Wutipat Khamnuansin, All rights reserved.
+> Copyright © 2020 Wutipat Khamnuansin, All rights reserved. 
